@@ -2,9 +2,6 @@
 # Visualizing Data with Leaflet
 ![Earthquake](https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-seismicH.jpg?itok=I-6a0Sri)
 
-## Deployment Link
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 ## Challenge Instructions
 This project utilizes leaflet, Javascript and D3 to visualize the earthquake data from the United States Geological Survey (USGS). The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
@@ -20,7 +17,7 @@ Create a map using Leaflet that plots all of the earthquakes from the data set b
 - Popups that provide additional information about the earthquake were included when a marker is clicked
 - A legend was created to provide context for the map data
 <p align="center">
-  <img src="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX">
+  <img src="https://github.com/SwapnaSubbagari/leaflet-challenge/blob/main/images/Leaflet-Step1.PNG">
 </p>
 
 ## Level-2: More Data
@@ -31,5 +28,5 @@ Plot a second data set on the map above to illustrate the relationship between t
 - Separate out the two different data sets (earthquakes and tectonic plates) into overlays that can be turned on and off independently
 - Add layer controls to the map
 <p align="center">
-  <img src="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX">
+  <img src="https://github.com/SwapnaSubbagari/leaflet-challenge/blob/main/images/Leaflet-Step2.PNG>
 </p>
