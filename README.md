@@ -18,7 +18,7 @@ Create a map using Leaflet that plots all of the earthquakes from the data set b
   <img src="https://github.com/SwapnaSubbagari/leaflet-challenge/blob/main/images/Leaflet-Step1.PNG">
 </p>
 
-## Level-2: More Data
+## Level-2: Advanced Visualization Process
 Plot a second data set on the map above to illustrate the relationship between tectonic plates and seismic activity.
 - Pull in [Tectonic Plates](https://github.com/fraxen/tectonicplates) data set
 - Visualize it along side the original set of data
